@@ -30,13 +30,15 @@
   
   <h3>نصب بازی</h3>
   <hr>
-  روش اول:
+  روش اول:<br />
   فایل زیپ را دانلود کنید و فایل رو روی کامپیوتر خود اکسترکت کنید بعد فایل index.html رو با مرورگر اجرا و شروع به بازی کنید.
   
   <br>
   <br>
   روش دوم:
-  <code>
-    <pre>git clone https://github.com/yasersharifi/Rock_paper_scissors_javascript.git</pre>
-  </code>
+  <div dir="ltr">
+     <pre>
+    <code>git clone https://github.com/yasersharifi/Rock_paper_scissors_javascript.git</code>
+  </pre>
+  </div>
 </div>
