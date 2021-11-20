@@ -37,8 +37,9 @@
   <br>
   روش دوم:
   <div dir="ltr">
-     <pre>
-    <code>git clone https://github.com/yasersharifi/Rock_paper_scissors_javascript.git</code>
-  </pre>
+<pre><code>
+git clone https://github.com/yasersharifi/Rock_paper_scissors_javascript.git
+</code>
+</pre>
   </div>
 </div>
