@@ -1,6 +1,8 @@
 <div dir="rtl">
 <h2 style="color: #3c763d"> بازی سنگ-کاغذ-قیچی با جاوااسکریپت</h2>
 <hr>
+![alt text](https://github.com/yassersharifi/Rock_paper_scissors_javascript/blob/main/image.png?raw=true)
+![](/home/yaser/Documents/i Project/Javascript Project/paper_hand_soccer/image.png)
 <p>سنگ کاغذ قیچی یک بازی دونفره چینی است که توسط دست بازیکنان انجام می‌گیرد. این بازی معمولاً به عنوان روشی برای انتخاب کردن در ابتدای بازی‌های دیگر به کار گرفته می‌شود. این کاربرد بسیار شبیه پرتاب سکه برای انتخاب یک فرد خاص برای نقشی خاص در یک بازی است</p>
 <br>
 <h3 style="color: #2e6da4">حالت‌های مجاز دست:</h3>
